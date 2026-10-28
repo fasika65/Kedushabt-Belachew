@@ -1,0 +1,6 @@
+{
+  "name": "Ethiopian Orthodox Liturgical Calendar",
+  "description": "An interactive liturgical calendar of the Ethiopian Orthodox Tewahedo Church with traditional Bahre Hasab computus, daily lectionary readings (Gitsawe), patristic devotionals and prayers (Tselot), saint commemorations, and seamless Gregorian synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
